@@ -1,0 +1,59 @@
+.body-class{
+    background-color: lavender;
+}
+
+.header-class{
+    background-color: black;
+    color: white;
+}
+
+.nav-class{
+    background-color: slategray;
+    color: white;
+}
+
+.nav-link-class:hover{
+    color: white;
+}
+
+.nav-link.active{
+    font-weight: bold;
+}
+
+h2{
+    color: brown;
+}
+
+.text-class{
+    color: darkblue;
+}
+
+.image-class{
+    border: 3px solid gold;
+}
+
+.form-class{
+    background-color: beige;
+}
+
+.label-class{
+    color: purple;
+}
+
+.input-class{
+    border: 1.5px solid black;
+}
+
+.button-class{
+    background-color: black;
+    color: pink;
+}
+
+.button-class:hover{
+    background-color: gray;
+}
+
+.footer-class{
+    background-color: tan;
+    color: black;
+}
